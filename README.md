@@ -3,3 +3,4 @@ hello guys this is my new project i am getting data which is already cleaned and
 here i evaluate the sales of the shop that are arising in all the months of the year
 hello guyzzz
 dhdvvdhd hxdbdh
+great learning experience and learning of French respectively 
