@@ -1,6 +1,5 @@
-# MAHADEV_ECOMMERCE_SALES_PowerBI_DASHBOARD
-hello guys this is my new project i am getting data which is already cleaned and clusterd so i make the sales dashboard
-here i evaluate the sales of the shop that are arising in all the months of the year
-hello guyzzz
-dhdvvdhd hxdbdh
-great learning experience and learning of French respectively 
+Madhav E-Commerce Sales Dashboard
+
+Overview
+
+This Power BI dashboard provides an insightful analysis of sales performance for Madhav E-Commerce. The dashboard includes key performance indicators (KPIs) such as total revenue, profit, quantity sold, and average order value (AOV). Additionally, it visualizes data across multiple dimensions, including top-performing states, customers, product categories, and payment modes.
